@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellomraman&label=Profile%20views&color=0e75b6&style=flat" alt="hellomraman" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellomraman" alt="hellomraman" /></a> </p>
-
 - 🔭 I’m currently working on **ML Project**
 
 - 💬 Ask me about **Technology & Finance**
